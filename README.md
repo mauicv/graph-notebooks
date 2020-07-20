@@ -13,10 +13,7 @@ ___
 ## Index:
 
 1. __Random Walks on Gaphs__: Introduces graph structure, transistion matricies, random walks, density/probability vectors, orbits and convergence
-2. __Metropolis Hastings Algorithm__: (In Progress) ...
-
-
-All the classes I build in the notebooks are also in the graph.py file.
+2. __Metropolis Hastings Algorithm__: Numerical evidence Metropolis Hastings Random Walks converge to uniform distrubutions on graphs.
 
 ___
 
